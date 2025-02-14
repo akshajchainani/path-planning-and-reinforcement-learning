@@ -1,0 +1,2 @@
+Invoking command in '/home/akshaj/pprl_22070127008/build/avoid_wall': /usr/bin/cmake /home/akshaj/pprl_22070127008 -DCMAKE_INSTALL_PREFIX=/home/akshaj/pprl_22070127008/install/avoid_wall
+Invoked command in '/home/akshaj/pprl_22070127008/build/avoid_wall' returned '0': /usr/bin/cmake /home/akshaj/pprl_22070127008 -DCMAKE_INSTALL_PREFIX=/home/akshaj/pprl_22070127008/install/avoid_wall

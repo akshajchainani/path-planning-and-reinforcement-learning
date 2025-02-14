@@ -1,0 +1,7 @@
+[0.010s] Invoking command in '/home/akshaj/pprl_22070127008/build/avoid_wall': /usr/bin/cmake /home/akshaj/pprl_22070127008 -DCMAKE_INSTALL_PREFIX=/home/akshaj/pprl_22070127008/install/avoid_wall
+[0.041s] -- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so (found version "3.12.4") 
+[0.154s] -- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so (found suitable version "3.12.4", minimum required is "3") 
+[0.195s] -- Configuring done
+[0.198s] -- Generating done
+[0.204s] -- Build files have been written to: /home/akshaj/pprl_22070127008
+[0.207s] Invoked command in '/home/akshaj/pprl_22070127008/build/avoid_wall' returned '0': /usr/bin/cmake /home/akshaj/pprl_22070127008 -DCMAKE_INSTALL_PREFIX=/home/akshaj/pprl_22070127008/install/avoid_wall
